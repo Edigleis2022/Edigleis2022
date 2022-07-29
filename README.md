@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edigleis2022
 - 👀 I’m interested in  aprender e compartilhar  códigos...
-- 🌱 I’m currently cursando  Análise e Desenvolvimento de Sistemas 
+- 🌱 I’m currently studying  Análise e Desenvolvimento de Sistemas 
 - 💞️  Em  busca...
 - 📫 How to reach me : edigleisbuiu@hotmail.com
 
