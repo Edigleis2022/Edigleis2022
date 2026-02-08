@@ -3,6 +3,8 @@
 ## Olá me chamo Edigleis
 
 ## Estudante em Analise e Desenvolvimentos de Sistemas. 
+## Front-end Developer em formação | React | Next.js | TypeScript  
+Construindo projetos reais e buscando primeira oportunidade dev.
 
 ## Conecte -se comigo
 
