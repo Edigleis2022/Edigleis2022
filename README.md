@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30A3DC,100:E94D5F&height=120&section=header"/>
 # Safira 
 
 ## Olá me chamo Edigleis
