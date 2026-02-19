@@ -15,13 +15,13 @@ Construindo projetos reais e buscando primeira oportunidade dev.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ## GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edigleis2022&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edigleis2022&show_icons=true&theme=merko&cache_seconds=1800)
 
 ## Linguagem 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edigleis2022&layout=compact&theme=merko&custom_title=Tecnologias)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edigleis2022&layout=compact&theme=merko&cache_seconds=1800)
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Edigleis2022&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Edigleis2022/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Edigleis2022&repo=dio-lab-open-source&theme=merko&cache_seconds=1800)](https://github.com/Edigleis2022/dio-lab-open-source)
 
 <!---
 Edigleis2022/Edigleis2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
