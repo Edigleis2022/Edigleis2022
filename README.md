@@ -5,7 +5,8 @@
 
 ## Estudante em Analise e Desenvolvimentos de Sistemas. 
 ## 💻 Desenvolvedor Full Stack em formação | React • Next.js • Java • Spring Boot • PostgreSQL
-Construindo projetos reais e buscando primeira oportunidade dev.
+## Sou desenvolvedor Full Stack focado em construir aplicações web modernas utilizando React e Next.js no front-end e Java com Spring Boot no back-end.
+
 
 ## Conecte -se comigo
 
