@@ -17,13 +17,13 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ## GitHub Stats 
-![GitHub Stats](https://stats-github-readme.vercel.app/api?username=Edigleis2022&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats-ula6.vercel.app/api?username=Edigleis2022&show_icons=true&theme=merko)
 
 ## Linguagem 
-![Top Langs](https://stats-github-readme.vercel.app/api/top-langs/?username=Edigleis2022&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats-ula6.vercel.app/api/top-langs/?username=Edigleis2022&layout=compact&theme=merko)
 
 ## Minhas Contribuições
-[![Repo Card](https://stats-github-readme.vercel.app/api/pin/?username=Edigleis2022&repo=dio-lab-open-source&theme=merko)](https://github.com/Edigleis2022/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats-ula6.vercel.app/api/pin/?username=Edigleis2022&repo=dio-lab-open-source&theme=merko)](https://github.com/Edigleis2022/dio-lab-open-source)
 
 <!---
 Edigleis2022/Edigleis2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
