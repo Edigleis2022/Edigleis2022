@@ -22,7 +22,7 @@ Construindo projetos reais e buscando primeira oportunidade dev.
 ![Top Langs](https://stats-github-readme.vercel.app/api/top-langs/?username=Edigleis2022&layout=compact&theme=merko)
 
 ## Minhas Contribuições
-![Repo Card](https://readme-stats-git-main.vercel.app/api/pin/?username=Edigleis2022&repo=dio-lab-open-source&theme=merko)](https://github.com/Edigleis2022/dio-lab-open-source)
+[![Repo Card](https://stats-github-readme.vercel.app/api/pin/?username=Edigleis2022&repo=dio-lab-open-source&theme=merko)](https://github.com/Edigleis2022/dio-lab-open-source)
 
 <!---
 Edigleis2022/Edigleis2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
