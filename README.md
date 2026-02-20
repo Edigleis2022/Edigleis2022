@@ -1,16 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Edigleis%20Pereira&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+## Full Stack Developer | React • Next.js • Java • Spring Boot • PostgreSQL
+
 # Safira 
 
 ## Olá me chamo Edigleis
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor Full Stack em formação  
+Sou Desenvolvedor Full Stack em formação, focado na construção de aplicações web modernas e escaláveis.
 
-Atuo no desenvolvimento de aplicações web modernas utilizando **React e Next.js** no front-end e **Java com Spring Boot** no back-end, integrando APIs e banco de dados **PostgreSQL**.
+No front-end, desenvolvo interfaces responsivas e performáticas com **React e Next.js**, aplicando boas práticas de componentização e organização de código.
 
-🚀 Buscando minha primeira oportunidade como desenvolvedor para aplicar meus conhecimentos na prática e continuar evoluindo.
+No back-end, construo APIs REST utilizando **Java com Spring Boot**, realizando integração com banco de dados **PostgreSQL**.
+
+🚀 Buscando minha primeira oportunidade como desenvolvedor para contribuir tecnicamente e evoluir em ambientes colaborativos.
 
 
 ## Conecte -se comigo
