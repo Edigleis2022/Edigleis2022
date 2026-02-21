@@ -41,7 +41,27 @@ No back-end, construo APIs REST utilizando **Java com Spring Boot**, realizando 
 ---
 
 ## 🚀 Projeto em Destaque
+📖 Bible App
 
+Aplicação Full Stack para leitura e organização de textos bíblicos, desenvolvida com arquitetura em camadas.
+
+🔧 Tecnologias
+
+Java
+Spring Boot
+JPA / Hibernate
+PostgreSQL
+React (se tiver)
+
+🧠 Conceitos Aplicados
+Arquitetura Controller → Service → Repository
+Uso de DTO para proteção de dados sensíveis
+API REST
+Integração com banco relacional
+Organização por domínio
+🔗 Repositório: https://github.com/Edigleis2022/Bible-app
+
+## Contribuição
 [![Repo Card](https://github-readme-stats-ula6.vercel.app/api/pin/?username=Edigleis2022&repo=dio-lab-open-source&theme=merko)](https://github.com/Edigleis2022/dio-lab-open-source)
 
 ---
