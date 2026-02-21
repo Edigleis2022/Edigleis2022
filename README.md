@@ -43,21 +43,28 @@ No back-end, construo APIs REST utilizando **Java com Spring Boot**, realizando 
 ## 🚀 Projeto em Destaque
 📖 Bible App
 
-Aplicação Full Stack para leitura e organização de textos bíblicos, desenvolvida com arquitetura em camadas.
+Aplicação back-end desenvolvida com Java e Spring Boot para consulta e gerenciamento de versículos bíblicos.
 
-🔧 Tecnologias
+A aplicação utiliza:
 
-Java
-Spring Boot
-JPA / Hibernate
-PostgreSQL
-React (se tiver)
+📦 Banco de dados local para persistência de dados
 
-🧠 Conceitos Aplicados
-Arquitetura Controller → Service → Repository
-Uso de DTO para proteção de dados sensíveis
+🌐 Consumo de API externa para buscar versículos online
+
+🔄 Integração entre dados externos e armazenamento interno
+
+🏗 Arquitetura em camadas (Controller → Service → Repository)
+
+🧠 Conceitos aplicados
+
 API REST
-Integração com banco relacional
+
+Consumo de API externa com RestTemplate ou WebClient
+
+Persistência com JPA / Hibernate
+
+DTO para separação entre entidade e resposta da API
+
 Organização por domínio
 
 🔗 Repositório: https://github.com/Edigleis2022/Bible-app
