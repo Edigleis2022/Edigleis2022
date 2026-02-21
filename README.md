@@ -59,6 +59,7 @@ Uso de DTO para proteção de dados sensíveis
 API REST
 Integração com banco relacional
 Organização por domínio
+
 🔗 Repositório: https://github.com/Edigleis2022/Bible-app
 
 ## Contribuição
