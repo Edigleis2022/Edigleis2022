@@ -41,6 +41,7 @@ No back-end, construo APIs REST utilizando **Java com Spring Boot**, realizando 
 ---
 
 🚀 Projeto em Destaque
+
 📖 Bible App — Aplicação Full Stack (Em Desenvolvimento)
 
 Aplicação web desenvolvida com Next.js no front-end e back-end em construção com Spring Boot.
