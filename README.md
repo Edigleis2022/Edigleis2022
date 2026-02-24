@@ -40,32 +40,56 @@ No back-end, construo APIs REST utilizando **Java com Spring Boot**, realizando 
 
 ---
 
-## 🚀 Projeto em Destaque
-📖 Bible App
+🚀 Projeto em Destaque
+📖 Bible App — Aplicação Full Stack (Em Desenvolvimento)
 
-Aplicação back-end desenvolvida com Java e Spring Boot para consulta e gerenciamento de versículos bíblicos.
+Aplicação web desenvolvida com Next.js no front-end e back-end em construção com Spring Boot.
 
-A aplicação utiliza:
+O projeto tem como objetivo evoluir de uma aplicação focada no consumo direto de API externa para uma arquitetura Full Stack completa, com persistência própria e regras de negócio centralizadas.
 
-📦 Banco de dados local para persistência de dados
+🧠 Sobre o Projeto
 
-🌐 Consumo de API externa para buscar versículos online
+Atualmente, o front-end consome a API pública Bible-API.com para exibir versículos de forma dinâmica.
 
-🔄 Integração entre dados externos e armazenamento interno
+O back-end está em desenvolvimento e terá como responsabilidade:
 
-🏗 Arquitetura em camadas (Controller → Service → Repository)
+Criar uma API REST própria
 
-🧠 Conceitos aplicados
+Centralizar regras de negócio
 
-API REST
+Persistir versículos favoritos em banco de dados
 
-Consumo de API externa com RestTemplate ou WebClient
+Servir o front-end com dados normalizados
+
+Aplicar arquitetura em camadas (Controller → Service → Repository)
+
+✨ Funcionalidades Atuais (Front-end)
+
+📖 Versículo aleatório
+
+🔁 Atualização dinâmica
+
+❤️ Sistema de favoritos
+
+💾 Salvamento no localStorage
+
+🌙 Tema Dark / Light
+
+⭐ Página exclusiva de favoritos
+
+☁️ Deploy na Vercel
+
+🏗 Próximas Implementações (Back-end)
+
+API REST com Spring Boot
 
 Persistência com JPA / Hibernate
 
-DTO para separação entre entidade e resposta da API
+Banco de dados relacional
 
-Organização por domínio
+DTO para separação de camadas
+
+Integração completa Front + Back
 
 🔗 Repositório: https://github.com/Edigleis2022/Bible-app
 
