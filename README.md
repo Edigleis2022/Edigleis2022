@@ -34,9 +34,9 @@ No back-end, construo APIs REST utilizando **Java com Spring Boot**, realizando 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-ula6.vercel.app/api?username=Edigleis2022&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats-ula6.vercel.app/api?username=Edigleis2022&show_icons=true&theme=merko&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats-ula6.vercel.app/api/top-langs/?username=Edigleis2022&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats-ula6.vercel.app/api/top-langs/?username=Edigleis2022&layout=compact&theme=merko&cache_seconds=86400)
 
 ---
 
